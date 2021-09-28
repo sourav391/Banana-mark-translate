@@ -10,8 +10,6 @@ function getTranslationURL(text){
 }
 
 
-// tells the button what to do when clicked 
-// main task - translate and show in output
 function clickHandler() {
     const inputText = inpText.value
     // server processing
