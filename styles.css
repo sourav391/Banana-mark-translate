@@ -1,0 +1,26 @@
+
+body {
+    margin: 0px;
+    padding-left: 1rem;
+}     
+
+.text-area {
+    width: 50%;
+    display: block;
+    margin: 1rem;
+    height: 3rem;
+    padding: 1rem;
+}
+
+.tet {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#output {
+    border: 1px solid black;
+    height: 3rem;
+    width: 70%;
+    padding: 1rem;
+
+}

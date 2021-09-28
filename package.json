@@ -1,0 +1,19 @@
+{
+  "name": "banana-mark-translate",
+  "version": "1.0.0",
+  "description": "This is a translator which is turns text into banana language",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav391/Banana-mark-translate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav391/Banana-mark-translate/issues"
+  },
+  "homepage": "https://github.com/sourav391/Banana-mark-translate#readme"
+}
